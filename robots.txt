@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ifiok12.github.io/assignment-hub/sitemap.xml
+Sitemap: https://www-assignment.github.io/assignment_hub/sitemap.xml
