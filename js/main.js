@@ -110,7 +110,7 @@ document.addEventListener('DOMContentLoaded', () => {
           `*Message:*%0A${encodeURIComponent(message)}`;
 
       // Open WhatsApp in new tab
-      const phoneNumber = '2348065443675'; // Replace with your number
+      const phoneNumber = '2349119101820'; // Replace with your number
       window.open(`https://wa.me/${phoneNumber}?text=${whatsappMessage}`, '_blank');
       
       // Optional: Reset form
